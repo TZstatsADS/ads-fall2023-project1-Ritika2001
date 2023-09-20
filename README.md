@@ -9,12 +9,16 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2023
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: What made you happy today?
++ This project is conducted by Ritika Nandi
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: What causes happiness? This question has been the center of interdisciplinary research work for years. Psychologists, linguists, philosophers, and scientists have collaborated time and again, using several different approaches to take a crack at this elusive problem.
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+The age of the internet has brought about a revolution in terms of the sheer volume of data available for analysis, opening new avenues and spawning the branch of data science. 
+
+An analysis of over 100,000 responses to the question “What made you happy in the last 24 hours” was analyzed, and the results are 'interesting', to say the least. 
+
+This folder is orgarnized as follows.
 
 ```
 proj/
