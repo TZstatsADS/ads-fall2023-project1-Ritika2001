@@ -220,6 +220,6 @@ textplot_bar(tail(freq_words, 20), panel = "Words", col.panel = "yellow", xlab =
 
 ```
 
-## conclusion
+## Conclusion
 
-In conclusion, these visualizations provide a uniquely beautiful perspective into the human psyche, showing us the things that provide immense joys.
+In conclusion, these visualizations provide a uniquely beautiful perspective into the human psyche, showing us the things that provide immense joy and how various stimuli are interlinked. As we go through the various stages of human life through our visualizations, we see how perspectives change and mature to highlight different facets, from friends to spouses and children to finally grandkids, thus completing the circle of life.
